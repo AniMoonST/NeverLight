@@ -1,1 +1,1 @@
-https://github.com/AniMoonST/NeverLight/releases/download/1.0/MinecraftLauncher-1.0-SNAPSHOT.jar
+https://github.com/AniMoonST/NeverLight/releases/download/1.0/NeverLightLauncher.zip
