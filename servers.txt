@@ -1,2 +1,2 @@
-Vanilla;play.neverlight.ru;25565;true
+Vanilla;play.neverlight.ru;25565;false
 Мини-игры;minigames.neverlight.ru;25565;false
