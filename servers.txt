@@ -1,0 +1,6 @@
+{
+  "servers": [
+    { "name": "Vanilla", "ip": "play.neverlight.ru", "port": 25565, "enabled": true },
+    { "name": "Мини-игры", "ip": "minigames.neverlight.ru", "port": 25565, "enabled": false }
+  ]
+}
