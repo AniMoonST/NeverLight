@@ -1,2 +1,2 @@
-Vanilla;neverlightbeta.aternos.me;45631;true
+Vanilla;neverlightbeta.aternos.me;25565;true
 Мини-игры;minigames.neverlight.ru;25565;false
